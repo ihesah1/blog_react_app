@@ -22,7 +22,7 @@ export default function Sidebar() {
           alt=""
         />
         <p>
-A blog is a website that collects a number of posts and serves as a diary or a forum for expressing personal opinions. 
+A blog is a website that collects a number of posts and serves as a diary or a forum for expressing personal opinions. Topics covered by publishers in their blogs range from diaries, thoughts, free expression of ideas, literary production, news publishing and specialized topics in the field of technology and the Internet itself.
         </p>
       </div>
       <div className="sidebarItem">
