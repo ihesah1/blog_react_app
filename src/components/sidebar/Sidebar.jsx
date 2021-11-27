@@ -22,8 +22,7 @@ export default function Sidebar() {
           alt=""
         />
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate qui
-          necessitatibus nostrum illum reprehenderit.
+A blog is a website that collects a number of posts and serves as a diary or a forum for expressing personal opinions. 
         </p>
       </div>
       <div className="sidebarItem">
